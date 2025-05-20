@@ -50,16 +50,6 @@ README for GitHub profile Nirali Vora
 
 ---
 
-### 📂 Projects Highlights
-
-| Project           | Description                                      | Link                                      |
-|-------------------|------------------------------------------------|-------------------------------------------|
-| 📝 To-Do List CLI  | Simple command-line To-Do manager               | [View Repo](https://github.com/nirali-vora/todo-cli)         |
-| 📅 Age Calculator  | Python-based age calculator with datetime       | [View Repo](https://github.com/nirali-vora/age-calculator)   |
-| 💬 Mini Chatbot    | Rule-based chatbot with basic conversational AI | [View Repo](https://github.com/nirali-vora/python-chatbot)   |
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
