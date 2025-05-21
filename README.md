@@ -99,6 +99,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat)
 
 ⭐️ Thanks for visiting! Let's connect and build something amazing together.
