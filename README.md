@@ -99,4 +99,6 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=red)
+
 ⭐️ Thanks for visiting! Let's connect and build something amazing together.
