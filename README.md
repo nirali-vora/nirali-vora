@@ -1,19 +1,35 @@
-<!-- README for GitHub profile Nirali Vora -->
-
 <h1 align="center">Hi 👋, I'm Nirali Vora</h1>
 <h3 align="center">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nirali-vora" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nirali--vora-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-nirali--vora-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/nirali-vora/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nirali--vora-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-nirali--vora-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nirali.vora@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-nirali.vora@gmail.com-D14836?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-nirali.vora@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</div>
+
+<br/>
+
+- 🧪 I specialize in **Data Science**, **Machine Learning**, and **Analytics**.
+- 🐍 I write efficient Python code for data analysis, automation, and model building.
+- 📊 Proficient with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**.
+- 🧠 Skilled in building **end-to-end ML pipelines**, from EDA to model deployment.
+- 🛠️ Comfortable working with **SQL**, **Excel**, **Power BI**, and **Tableau** for data wrangling and visualization.
+- 🌱 Currently learning more about **Neural Networks**, **Deep Learning**, and **Cloud ML platforms**.
+- 🤝 Open to collaboration on **Data Science Projects**, **Hackathons**, and **Open Source**.
 
 ---
 
@@ -83,7 +99,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </p>
 
-
 ---
 
 ## 📬 Get in Touch
@@ -99,6 +114,10 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
+</p>
 
-⭐️ Thanks for visiting! Let's connect and build something amazing together.
+<p align="center">
+  ⭐️ Thanks for visiting! Let's connect and build something amazing together.
+</p>
