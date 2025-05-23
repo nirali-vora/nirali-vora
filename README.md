@@ -89,7 +89,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" title="Power BI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" title="Plotly" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" title="Matplotlib" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Seaborn_logo.svg/320px-Seaborn_logo.svg.png" height="40" title="Seaborn" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Seaborn_logo.svg/512px-Seaborn_logo.svg.png" height="40" title="Seaborn" />
 
 <br/><br/>
 
