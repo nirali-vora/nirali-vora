@@ -41,7 +41,6 @@
   <img src="https://streak-stats.demolab.com/?user=nirali-vora&theme=radical" width="400"/>
 </p>
 
-
 ## 🧠 My Skills
 
 ### 🚀 Languages & Tools
