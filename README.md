@@ -67,8 +67,6 @@
 - Data Science Workflows (EDA, Modeling, Evaluation)
 - Dashboarding & Reporting
 
-
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
