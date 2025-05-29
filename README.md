@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirali Vora </h1>
-<h3 align="center">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast</h3>
+<h3 align="center">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/nirali-vora" target="_blank">
