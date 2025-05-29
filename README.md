@@ -83,7 +83,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
 </p>
