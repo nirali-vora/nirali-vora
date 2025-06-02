@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
 </p>
 
-### 💡 Areas of Expertise
+## 💡 Areas of Expertise
 - Data Analysis & Exploration
 - Data Visualization (Matplotlib, Seaborn, Power BI, Google Data Studio)
 - Data Cleaning & Preprocessing
