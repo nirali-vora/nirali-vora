@@ -72,7 +72,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&column=7&margin-w=5&margin-h=5" />
 </p>
 
-## 📬 Get in Touch
+## 📬 Get in Touch 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nirali-vora/">
