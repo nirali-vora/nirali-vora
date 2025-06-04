@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirali-vora&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" width="300" />
   <img src="https://streak-stats.demolab.com/?user=nirali-vora&theme=radical" width="400"/>
 </p>
 
