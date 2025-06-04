@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&column=7&margin-w=5&margin-h=8" />
 </p>
 
 ## 📬 Get in Touch 
