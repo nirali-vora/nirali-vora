@@ -84,6 +84,6 @@
   <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
 </p>
 
-<p align="center">
+<p align="center"> 
   ⭐️ Thanks for visiting! Let's connect and build something amazing together.
 </p>
