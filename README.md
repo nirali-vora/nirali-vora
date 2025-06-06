@@ -63,7 +63,7 @@
 - Data Science Workflows (EDA, Modeling, Evaluation)
 - Dashboarding & Reporting
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&column=7&margin-w=5&margin-h=8" />
