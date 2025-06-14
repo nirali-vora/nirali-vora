@@ -42,17 +42,15 @@
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <!-- Python -->
-  <img src="PYTHON_3D_URL" width="50" height="50" alt="Python"
-    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Git -->
-  <img src="GIT_3D_URL" width="50" height="50" alt="Git"
-    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Statistics -->
-  <img src="STATISTICS_3D_URL" width="50" height="50" alt="Statistics"
-    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
 </p>
 
 
