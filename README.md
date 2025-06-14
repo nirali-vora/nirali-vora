@@ -41,53 +41,17 @@
 ## 🧠 My Skills
 
 ### 🚀 Languages & Tools
-<h3 align="center">🚀 Languages & Tools</h3>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 20px; background-color: #f9f9f9; border-radius: 15px;">
-
-  <!-- Python -->
-  <div style="width:90px; height:90px; background-color:#FFE873; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#2c2c2c;">Python</span>
-  </div>
-
-  <!-- Pandas -->
-  <div style="width:90px; height:90px; background-color:#E6DAF2; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#321450;">Pandas</span>
-  </div>
-
-  <!-- NumPy -->
-  <div style="width:90px; height:90px; background-color:#CDE7F0; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#003d5b;">NumPy</span>
-  </div>
-
-  <!-- Seaborn -->
-  <div style="width:90px; height:90px; background-color:#E0F8F1; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#005959;">Seaborn</span>
-  </div>
-
-  <!-- Matplotlib -->
-  <div style="width:90px; height:90px; background-color:#FCE4EC; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#880e4f;">Matplotlib</span>
-  </div>
-
-  <!-- PostgreSQL -->
-  <div style="width:90px; height:90px; background-color:#E3F2FD; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#0D47A1;">PostgreSQL</span>
-  </div>
-
-  <!-- GitHub -->
-  <div style="width:90px; height:90px; background-color:#F4F4F4; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-    <span style="margin-top:5px; font-size:12px; font-weight:bold; color:#000000;">GitHub</span>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
+</p>
 
 
 
