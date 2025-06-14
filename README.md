@@ -43,58 +43,17 @@
 ### 🚀 Languages & Tools
 <p align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       width="50" height="50" alt="Python"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
+  <img src="PYTHON_3D_URL" width="50" height="50" alt="Python"
+    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
 
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       width="50" height="50" alt="Git"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
+  <img src="GIT_3D_URL" width="50" height="50" alt="Git"
+    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
 
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="50" height="50" alt="GitHub"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       width="50" height="50" alt="MySQL"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-       width="50" height="50" alt="Jupyter"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       width="50" height="50" alt="Pandas"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-       width="50" height="50" alt="NumPy"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
-       width="50" height="50" alt="Seaborn"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-       width="50" height="50" alt="Matplotlib"
-       style="transform: perspective(80px) rotateX(10deg); box-shadow: 2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
-
-  <!-- 3D Statistics -->
-  <img src="<!-- PICK YOUR URL HERE -->"
-       width="50" height="50" alt="Statistics"
-       style="transform: perspective(80px) rotateX(15deg); box-shadow: 3px 6px 10px rgba(0,0,0,0.25); margin:5px;" />
+  <!-- Statistics -->
+  <img src="STATISTICS_3D_URL" width="50" height="50" alt="Statistics"
+    style="transform: perspective(80px) rotateX(10deg); box-shadow:2px 4px 8px rgba(0,0,0,0.2); margin:5px;" />
 </p>
-
-
-
 
 
 ## 💡 Areas of Expertise
