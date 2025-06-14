@@ -41,28 +41,51 @@
 ## 🧠 My Skills
 
 ### 🚀 Languages & Tools
-<p align="center">
+<div align="center" style="padding: 20px; border-radius: 15px; width: fit-content; margin: auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  
+  <div style="width:90px; height:90px; background-color:#FFD43B; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#000;">Python</div>
+  </div>
+
   <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
-  
+  <div style="width:90px; height:90px; background-color:#E1D5E7; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#2C003E;">Pandas</div>
+  </div>
+
   <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
-  
-  <!-- Seaborn (Note: Seaborn icon is custom or reused from Matplotlib because official icon not always available) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50" alt="Seaborn" />
-  
+  <div style="width:90px; height:90px; background-color:#BEE3F8; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#1A365D;">NumPy</div>
+  </div>
+
+  <!-- Seaborn -->
+  <div style="width:90px; height:90px; background-color:#CDF0EA; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#125D66;">Seaborn</div>
+  </div>
+
   <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
-  
+  <div style="width:90px; height:90px; background-color:#E0F7FA; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#004D40;">Matplotlib</div>
+  </div>
+
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-  
+  <div style="width:90px; height:90px; background-color:#E3F2FD; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#0D47A1;">PostgreSQL</div>
+  </div>
+
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-</p>
+  <div style="width:90px; height:90px; background-color:#F5F5F5; border-radius:10px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <div style="margin-top:6px; font-size:12px; font-weight:600; color:#24292E;">GitHub</div>
+  </div>
+
+</div>
 
 
 ## 💡 Areas of Expertise
