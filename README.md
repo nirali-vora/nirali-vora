@@ -33,9 +33,9 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirali-vora&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" width="300" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirali-vora&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" height="180" />
 </p>
 
  
