@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nirali Vora </h1>
-<h3 align="center">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast </h3>
+<h1 align="left">Hi 👋, I'm Nirali Vora </h1>
+<h3 align="left">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/nirali-vora" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-nirali--vora-181717?style=flat&logo=github" />
   </a>
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </div>
 
@@ -32,7 +32,7 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nirali-vora&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" height="180" />
   <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" height="180" />
@@ -42,7 +42,7 @@
 ## 🧠 My Skills
 
 ### 🚀 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
@@ -67,7 +67,7 @@
 
 ## 📬 Get in Touch 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nirali-vora/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -75,10 +75,10 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   ⭐️ Thanks for visiting! Let's connect and build something amazing together.
 </p>
