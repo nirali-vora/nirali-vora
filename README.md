@@ -20,7 +20,6 @@
 </div>
 
 <br/>
-
 - 🧪 I specialize in **Data Science**, **Machine Learning**, and **Analytics**.
 - 🐍 I write efficient Python code for data analysis, automation, and model building.
 - 📊 Proficient with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**.
