@@ -28,7 +28,6 @@
 - 🌱 Currently learning more about **Neural Networks**, **Deep Learning**, and **Cloud ML platforms**.
 - 🤝 Open to collaboration on **Data Science Projects**, **Hackathons**, and **Open Source**.
 
-
 ## 🔥 GitHub Stats
 
 <p align="left">
