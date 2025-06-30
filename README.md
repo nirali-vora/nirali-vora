@@ -19,14 +19,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </div>
 
-<br/>
-- 🧪 I specialize in **Data Science**, **Machine Learning**, and **Analytics**.
-- 🐍 I write efficient Python code for data analysis, automation, and model building.
-- 📊 Proficient with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**.
-- 🧠 Skilled in building **end-to-end ML pipelines**, from EDA to model deployment.
-- 🛠️ Comfortable working with **SQL**, **Excel**, **Power BI**, and **Tableau** for data wrangling and visualization.
-- 🌱 Currently learning more about **Neural Networks**, **Deep Learning**, and **Cloud ML platforms**.
-- 🤝 Open to collaboration on **Data Science Projects**, **Hackathons**, and **Open Source**.
+<p>
+  🧪 I specialize in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Analytics</strong>.<br/>
+  🐍 I write efficient Python code for data analysis, automation, and model building.<br/>
+  📊 Proficient with libraries like <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, and <strong>Scikit-learn</strong>.<br/>
+  🧠 Skilled in building <strong>end-to-end ML pipelines</strong>, from EDA to model deployment.<br/>
+  🛠️ Comfortable working with <strong>SQL</strong>, <strong>Excel</strong>, <strong>Power BI</strong>, and <strong>Tableau</strong> for data wrangling and visualization.<br/>
+  🌱 Currently learning more about <strong>Neural Networks</strong>, <strong>Deep Learning</strong>, and <strong>Cloud ML platforms</strong>.<br/>
+  🤝 Open to collaboration on <strong>Data Science Projects</strong>, <strong>Hackathons</strong>, and <strong>Open Source</strong>.
+</p>
+
 
 ## 🔥 GitHub Stats
 
