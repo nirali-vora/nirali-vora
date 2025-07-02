@@ -17,7 +17,7 @@
 
 <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
-</div>
+</div> 
 
 <p>
   🧪 I specialize in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Analytics</strong>.<br/>
