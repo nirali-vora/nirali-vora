@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nirali Vora </h1>
-<h3 align="left">💻 Passionate Python Developer | 🎯 Data Science & Analytics Enthusiast </h3>
+<h3 align="left">🎯 Future Data Analyst | Building Skills in Python, SQL, Power BI & Data Science | Passionate about Solving Problems with Data | Analytics Learner for Life </h3>
 
 <p align="left">
   <a href="https://github.com/nirali-vora" target="_blank">
