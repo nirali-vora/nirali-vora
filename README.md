@@ -11,9 +11,6 @@
   <a href="mailto:niralivora1303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-niralivora1303@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -69,7 +66,7 @@
 - ✅ Writing SQL Queries with PostgreSQL
 - ✅ Working in Jupyter Notebook Environments
 - ✅ Building Projects on Kaggle & GitHub
-- 🚧 Learning: Machine Learning (Supervised/Unsupervised)
+- 🚧 Learning: Machine Learning
 
 ---
 
