@@ -5,10 +5,10 @@
   <a href="https://github.com/nirali-vora" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-nirali--vora-181717?style=flat&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/nirali-vora/" target="_blank">
+  <a href="https://www.linkedin.com/in/nirali-vora-948230240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nirali--vora-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nirali.vora@gmail.com" target="_blank">
+  <a href="mailto:niralivora1303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-nirali.vora@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
