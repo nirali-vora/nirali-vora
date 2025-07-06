@@ -11,6 +11,9 @@
   <a href="mailto:niralivora1303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-niralivora1303@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,13 +24,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </div>  
 
-- 🔍 I’m currently focused on **Data Analysis** and **Data Visualization**
-- 🐍 Skilled in **Python**, **NumPy**, **Pandas** for data manipulation
-- 📊 Creating visual stories with **Matplotlib**, **Seaborn**, and **Power BI**
-- 🗄️ Working with **PostgreSQL** for data querying and analysis
-- 🤖 Learning basics of **Machine Learning** and model-building workflows
-- 💡 Passionate about using data to drive smarter decisions
-- 📈 Actively working on real-world datasets and sharing projects here on GitHub
+- 🔍 Focused on **Data Analysis**, **Data Visualization**, and **Business Intelligence**
+- 🐍 Skilled in **Python**, **NumPy**, **Pandas** for data cleaning & transformation
+- 📊 Experienced with **Matplotlib**, **Seaborn**, and **Power BI** for data visualization
+- 🗄️ Proficient in **PostgreSQL** for writing queries and relational data handling
+- 📁 Comfortable working in **Jupyter Notebooks** and managing version control with **GitHub**
+- 📚 Exploring real-world datasets on **Kaggle**
+- 🤖 Learning the fundamentals of **Machine Learning**
+- 🚀 Actively building and sharing projects in GitHub repositories
 
 ---
 
@@ -45,14 +49,14 @@
 ### 📊 Visualization & BI Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" height="50" alt="Power BI"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-google-data-studio-a-free-tool-that-turns-your-data-into-informative-customizable-dashboards-logo-color-tal-revivo.png" width="50" height="50" alt="Google Data Studio"/>
 </p>
 
-### 🗄️ Databases & Others
+### 🗄️ Databases & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/kaggle.png" width="50" height="50" alt="Kaggle"/>
 </p>
 
 ---
@@ -61,10 +65,19 @@
 
 - ✅ Data Cleaning & Wrangling
 - ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Visualization & Storytelling
-- ✅ Dashboarding with Power BI & Google Data Studio
-- ✅ SQL & Relational Databases (PostgreSQL)
-- 🚧 Learning: Machine Learning Concepts (Supervised/Unsupervised)
+- ✅ Data Visualization & Dashboarding
+- ✅ Writing SQL Queries with PostgreSQL
+- ✅ Working in Jupyter Notebook Environments
+- ✅ Building Projects on Kaggle & GitHub
+- 🚧 Learning: Machine Learning (Supervised/Unsupervised)
+
+---
+
+## 📁 Projects & Notebooks
+
+- 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
+- 🔹 [Kaggle Datasets](https://www.kaggle.com/) — Learning from competitions and kernels
+- 🔹 Coming soon: Power BI dashboards and ML model experiments
 
 ---
 
@@ -84,5 +97,5 @@
 
 <p align="left"> 
   ⭐ Thank you for visiting!  
-  Let’s connect and explore the world of data together.
+  Let’s connect, collaborate, and grow together in the world of data!
 </p>
