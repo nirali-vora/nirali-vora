@@ -11,6 +11,9 @@
   <a href="mailto:niralivora1303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-niralivora1303@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -36,24 +39,24 @@
 
 ### 💻 Languages & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
 </p>
 
 ### 📊 Visualization & BI Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" height="50" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
 </p>
 
 ### 🗄️ Databases & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/kaggle.png" width="50" height="50" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" />
 </p>
 
 ---
@@ -78,12 +81,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirali-vora&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirali-vora&layout=compact&theme=radical" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nirali-vora&theme=radical&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
