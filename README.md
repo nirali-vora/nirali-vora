@@ -39,8 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="40" />
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" />
 </p>
 
 ### 📊 Visualization & BI Tools
@@ -60,20 +60,20 @@
 
 ## 📌 Areas of Focus
 
-- ✅ Data Cleaning & Wrangling
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Visualization & Dashboarding
-- ✅ Writing SQL Queries with PostgreSQL
-- ✅ Working in Jupyter Notebook Environments
-- ✅ Building Projects on Kaggle & GitHub
-- 🚧 Learning: Machine Learning
+- ✅ Data Cleaning & Wrangling  
+- ✅ Exploratory Data Analysis (EDA)  
+- ✅ Data Visualization & Dashboarding  
+- ✅ Writing SQL Queries with PostgreSQL  
+- ✅ Working in Jupyter Notebook Environments  
+- ✅ Building Projects on Kaggle & GitHub  
+- 🚧 Learning: Machine Learning  
 
 ---
 
 ## 📁 Projects & Notebooks
 
-- 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
-- 🔹 Coming soon: Power BI dashboards and ML model experiments
+- 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis  
+- 🔹 Coming soon: Power BI dashboards and ML model experiments  
 
 ---
 
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nirali-vora&theme=radical&hide_border=false" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=nirali-vora&theme=radical&hide_border=false" height="180" />
 </p>
 
 <p align="center">
