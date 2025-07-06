@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 <div align="left">
@@ -32,8 +30,6 @@
 - 📚 Exploring real-world datasets on **Kaggle**
 - 🤖 Learning the fundamentals of **Machine Learning**
 - 🚀 Actively building and sharing projects in GitHub repositories
-
----
 
 ## 💼 Tools & Technologies
 
@@ -60,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" />
 </p>
 
----
-
 ## 📌 Areas of Focus
 
 - ✅ Data Cleaning & Wrangling
@@ -72,15 +66,10 @@
 - ✅ Building Projects on Kaggle & GitHub
 - 🚧 Learning: Machine Learning
 
----
-
 ## 📁 Projects & Notebooks
 
 - 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
-- 🔹 [Kaggle Datasets](https://www.kaggle.com/) — Learning from competitions and kernels
 - 🔹 Coming soon: Power BI dashboards and ML model experiments
-
----
 
 ## 📊 GitHub Stats & Contributions
 
@@ -96,8 +85,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" />
 </p>
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
