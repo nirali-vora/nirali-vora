@@ -68,10 +68,10 @@
 ## 📬 Get in Touch 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nirali-vora/">
+  <a href="https://www.linkedin.com/in/nirali-vora-948230240/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:nirali.vora@gmail.com">
+  <a href="mailto:niralivora1303@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
