@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-nirali--vora-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:niralivora1303@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-nirali.vora@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-niralivora1303@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
