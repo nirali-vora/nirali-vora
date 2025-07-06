@@ -11,9 +11,6 @@
   <a href="mailto:niralivora1303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-niralivora1303@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -76,7 +73,6 @@
 ## 📁 Projects & Notebooks
 
 - 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
-- 🔹 [Kaggle Datasets](https://www.kaggle.com/) — Learning from competitions and kernels
 - 🔹 Coming soon: Power BI dashboards and ML model experiments
 
 ---
