@@ -44,7 +44,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40" alt="Combo Chart Icon" />
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-analytics-data-science-flatart-icons-outline-flatarticons.png" width="40" height="40" alt="Locker Studio" title="Locker Studio"/>
+  <img src="https://seeklogo.com/vector-logo/617989/looker-studio" width="40" height="40" alt="Looker Studio" title="Looker Studio"/>
 </p>
 
 ### 🗄️ Databases & Platforms
