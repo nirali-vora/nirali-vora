@@ -65,6 +65,15 @@
 - ✅ Building Projects on Kaggle & GitHub
 - 🚧 Learning: Machine Learning
 
+
+## 🎮 Game Analytics Experience
+
+- Worked with **Locker Studio** to analyze mobile game data
+- Focused on **user retention**, **in-app behavior**, and **ad monetization trends**
+- Integrated **Firebase**, **Google AdMob**, and **Play Console** insights into cohesive dashboards
+- Conducted **A/B testing analysis** and **funnel drop-off tracking**
+
+  
 ## 📁 Projects & Notebooks
 
 - 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
