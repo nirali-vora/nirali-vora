@@ -20,6 +20,7 @@
 </div>  
 
 - 🔍 Focused on **Data Analysis**, **Data Visualization**, and **Business Intelligence**
+- 🎮 Hands-on experience with **Locker Studio** for **Game Data Analysis** and user engagement insights
 - 🐍 Skilled in **Python**, **NumPy**, **Pandas** for data cleaning & transformation
 - 📊 Experienced with **Matplotlib**, **Seaborn**, and **Power BI** for data visualization
 - 🗄️ Proficient in **PostgreSQL** for writing queries and relational data handling
@@ -57,6 +58,7 @@
 
 - ✅ Data Cleaning & Wrangling
 - ✅ Exploratory Data Analysis (EDA)
+- ✅ Game Analytics using Locker Studio (player behavior, retention, monetization)
 - ✅ Data Visualization & Dashboarding
 - ✅ Writing SQL Queries with PostgreSQL
 - ✅ Working in Jupyter Notebook Environments
