@@ -73,7 +73,6 @@
 - Integrated **Firebase**, **Google AdMob**, and **Play Console** insights into cohesive dashboards
 - Conducted **A/B testing analysis** and **funnel drop-off tracking**
 
-  
 ## 📁 Projects & Notebooks
 
 - 🔹 [GitHub Projects](https://github.com/nirali-vora) — Real-world datasets & analysis
