@@ -93,7 +93,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nirali-vora&theme=radical&margin-w=15&margin-h=15" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nirali-vora&label=Profile%20views&color=dc143c&style=flat"/>
 </p>
 
 <p align="left"> 
